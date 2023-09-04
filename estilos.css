@@ -1,13 +1,28 @@
 html {
   scroll-behavior: smooth;
   font-family: 'Courier New', monospace;
+  color: aliceblue;
 }
+
+h1, h2{
+  color: rgb(216, 58, 0);
+}
+
 
 body {
   padding: 0 350px;
 }
 
-img{
+
+body {
+  background-color: #464646; /* Cambia el color de fondo a tu elección */
+}
+ img{
   max-width: 100%;
   height: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  display: block;
+  margin: 0 auto;
+  border: 2px solid rgb(216, 58, 0); /* Cambia el color del borde a tu elección */
 }
