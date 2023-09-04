@@ -1,5 +1,11 @@
+html {
+  scroll-behavior: smooth;
+  font-family: 'Courier New', monospace;
+}
 
-
+body {
+  padding: 0 350px;
+}
 
 img{
   max-width: 100%;
